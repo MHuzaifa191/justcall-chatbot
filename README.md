@@ -1,6 +1,6 @@
 # JustCall Chatbot
 
-This project is a chatbot server built with Express.js that integrates with the JustCall API and OpenAI's GPT-4 model to handle SMS messages and generate responses.
+This project is a chatbot server built with Express.js that integrates with the JustCall API and OpenAI's fine-tuned assisstant to handle SMS messages and generate responses.
 
 ## Features
 
